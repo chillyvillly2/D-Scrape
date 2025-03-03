@@ -1,0 +1,2 @@
+This python code allows you to view every server the bot you input is used in. This code will help developers view the servers their bot is being used in if they dont have the nessacry
+permissions to do so.
